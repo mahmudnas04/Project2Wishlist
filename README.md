@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![WishListCrash](https://user-images.githubusercontent.com/93147757/192080196-b0d553b8-cece-4c24-b1d4-a0aafca16525.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![WishListCrash](https://user-images.githubusercontent.com/93147757/192080255-30cfbd77-8901-4ee4-8033-58084ff38f52.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
