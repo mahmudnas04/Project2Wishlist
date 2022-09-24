@@ -39,7 +39,7 @@ GIF created with LiceCAP
 
 ## Notes
 
-App kept crashing, and not compiling. 
+App kept crashing, and not compiling. The submission is late because it took me hours to fix this. 
 ![WishListCrash](https://user-images.githubusercontent.com/93147757/192081209-5186893a-88b0-46ed-a85c-fffa2d76b9ca.gif)
 
 ## License
