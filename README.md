@@ -10,8 +10,8 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ ] **User can see their list of items based on previously inputted items**
+- [x] **User can add an item to their wishlist**
+- [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
@@ -27,10 +27,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![WishListCrash](https://user-images.githubusercontent.com/93147757/192080255-30cfbd77-8901-4ee4-8033-58084ff38f52.gif)
+![proj2walkthrough](https://user-images.githubusercontent.com/93147757/192081170-a137ce16-06ca-4f5f-8dd1-ba0b3eda9d14.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCAP  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,7 +39,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+App kept crashing, and not compiling. 
+![WishListCrash](https://user-images.githubusercontent.com/93147757/192081209-5186893a-88b0-46ed-a85c-fffa2d76b9ca.gif)
 
 ## License
 
